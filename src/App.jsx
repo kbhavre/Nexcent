@@ -24,8 +24,6 @@ const App = () => {
         <Route path='/faq' element={<Faq/>} />
       </Routes>
 
-
-      <Home/>
       <Clients/>
       <Services/>
       <Features/>

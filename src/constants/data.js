@@ -1,7 +1,7 @@
 const navLinks = [
     {
         path: '/',
-        label: "Kunal",
+        label: "Home",
     },
     {
         path: '/services',
@@ -15,14 +15,6 @@ const navLinks = [
         path: '/product',
         label: "Product",
     },
-    {
-        path: '/testimonial',
-        label: "Testimonial",
-    },
-    {
-        path: '/faq',
-        label: "FAQ",
-    }
 ]
 
 export default navLinks;
